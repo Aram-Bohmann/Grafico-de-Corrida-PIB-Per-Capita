@@ -114,8 +114,8 @@ Contribuições são muito bem-vindas! Para contribuir:
 
 **Aram Bohmann Leite Da Luz**
 
-- [GitHub](https://github.com/seu-usuario)
-- [LinkedIn](https://linkedin.com/in/seu-perfil)
+- [GitHub](https://github.com/Aram-Bohmann)
+- [LinkedIn](https://www.linkedin.com/in/aram-luz-1b0ab1321/)
 
 ## 🙏 Agradecimentos
 
@@ -134,3 +134,4 @@ Contribuições são muito bem-vindas! Para contribuir:
 🐛 **Encontrou um bug?** [Abra uma issue](https://github.com/seu-usuario/Grafico-de-Corrida-PIB-Per-Capita/issues)
 
 💡 **Tem uma sugestão?** [Inicie uma discussão](https://github.com/seu-usuario/Grafico-de-Corrida-PIB-Per-Capita/discussions)
+
