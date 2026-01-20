@@ -10,6 +10,8 @@ Uma visualização animada da evolução do PIB per capita dos principais paíse
 
 ![Corrida PIB](corrida_pib.gif)
 
+---
+
 ## 📖 Sobre o Projeto
 
 Este projeto cria uma animação dinâmica em estilo "bar chart race" (gráfico de corrida com barras) que visualiza a evolução do PIB per capita de diversos países ao longo de 50 anos. A visualização permite acompanhar de forma intuitiva como a posição econômica dos países muda ao longo do tempo.
@@ -23,6 +25,8 @@ Este projeto cria uma animação dinâmica em estilo "bar chart race" (gráfico 
 - 📈 Valores formatados com separadores de milhar
 - 💾 Exportação em formato GIF de alta qualidade
 
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
 | Biblioteca | Versão Mínima | Finalidade |
@@ -32,6 +36,8 @@ Este projeto cria uma animação dinâmica em estilo "bar chart race" (gráfico 
 | **NumPy** | 1.18+ | Operações numéricas |
 | **Matplotlib** | 3.10+ | Visualização e animação |
 | **Pillow** | 7.0+ | Geração do GIF |
+
+---
 
 ## ⚙️ Configurações Personalizáveis
 
@@ -51,6 +57,8 @@ interval=200
 fps=8
 ```
 
+---
+
 ## 🌍 Países Incluídos
 
 A visualização traduz automaticamente os seguintes países para português:
@@ -69,6 +77,8 @@ A visualização traduz automaticamente os seguintes países para português:
 - 🇲🇽 México
 - E muitos outros...
 
+---
+
 ## 🎨 Detalhes da Visualização
 
 A animação gerada inclui:
@@ -80,6 +90,8 @@ A animação gerada inclui:
 - **Grid de referência** - Linhas verticais para facilitar a leitura
 - **Formatação numérica** - Valores com separadores de milhar
 
+---
+
 ## 🔧 Processamento de Dados
 
 O script realiza as seguintes operações:
@@ -90,6 +102,8 @@ O script realiza as seguintes operações:
 4. **Interpolação** - Preenche anos faltantes com valores estimados
 5. **Normalização** - Converte de volta para formato longo
 6. **Ordenação** - Classifica países por PIB a cada ano
+
+---
 
 ## 🤝 Contribuindo
 
@@ -110,12 +124,18 @@ Contribuições são muito bem-vindas! Para contribuir:
 - [ ] Criar interface gráfica (GUI)
 - [ ] Adicionar mais opções de visualização
 
-## 👨‍💻 Autor
+---
 
-**Aram Bohmann Leite Da Luz**
+## 📞 Contato
 
-- [GitHub](https://github.com/Aram-Bohmann)
-- [LinkedIn](https://www.linkedin.com/in/aram-luz-1b0ab1321/)
+**Desenvolvedor:** Aram Bohmann Leite da Luz
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arambohmannleitedaluz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aram-luz-1b0ab1321)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aram-Bohmann)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aram-bohmann.github.io/Site-Portfolio/)
+
+---
 
 ## 🙏 Agradecimentos
 
@@ -129,9 +149,12 @@ Contribuições são muito bem-vindas! Para contribuir:
 
 ---
 
-⭐ **Se este projeto foi útil para você, considere dar uma estrela!**
+<div align="center">
 
-🐛 **Encontrou um bug?** [Abra uma issue](https://github.com/seu-usuario/Grafico-de-Corrida-PIB-Per-Capita/issues)
+### ⭐ Se este projeto foi útil para você, considere dar uma estrela!
 
-💡 **Tem uma sugestão?** [Inicie uma discussão](https://github.com/seu-usuario/Grafico-de-Corrida-PIB-Per-Capita/discussions)
+**Desenvolvido com 💙**
 
+*"Dados visualizados são insights democratizados"*
+
+</div>
